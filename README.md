@@ -6,7 +6,7 @@ Find a way to import the files into your game, you may want to backup your save 
 
 Execute command in the terminal:
 ```shell
-run /hack/bat/masterV3.js
+run wgetUpdater.js
 ```
 The script will do the following:
 1. First try to hack all hosts and copy the whole code base to the successfully hacked machines.
@@ -27,7 +27,7 @@ I use different scripts for different tasks, and tried to categorize them using 
 ```
 /hack
   /bat           # The main path for my batch hacking method scripts
-  hack-node.js   # The script that helps me earn engouh money for living in the early game
+  hack-node.js   # The script that helps me earn enough money for living in the early game
 /lib             # Some scripts having less to do with hacking goes here
 /ownedserver     # Scripts for managing owned servers
 /tools           # Contains rewritten native commands. And a script for auto-nuking.
